@@ -24,7 +24,7 @@ export const useWindowDimensions = () => {
   return useDimensionsHelper("window");
 };
 
-export const useScreenDimension = () => {
+export const useScreenDimensions = () => {
   return useDimensionsHelper("screen");
 };
 
