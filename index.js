@@ -5,7 +5,7 @@ import useDimensions, {
 import useDeviceOrientation from "./src/useDeviceOrientation";
 import useInteractionManager from "./src/useInteractionManager";
 
-export default {
+export {
   useDimensions,
   useWindowDimensions,
   useScreenDimensions,
