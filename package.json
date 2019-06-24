@@ -1,12 +1,13 @@
 {
   "name": "eks-hooks",
   "version": "1.0.0",
-  "description": "Featuring commonly used react and react-native custom hooks",
+  "description": "Commonly used react and react-native custom hooks",
   "main": "index.js",
   "author": "Sebastian Trebunak",
   "license": "MIT",
   "private": true,
-  "dependencies": {
-    "react": "16.8.3"
+  "peerDependencies": {
+    "react": "^16.7.0-alpha.0",
+    "react-native": "^0.59.0"
   }
 }
