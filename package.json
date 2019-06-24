@@ -1,6 +1,6 @@
 {
   "name": "eks-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Commonly used react and react-native custom hooks",
   "main": "index.js",
   "author": "Sebastian Trebunak",
