@@ -1,11 +1,18 @@
 {
   "name": "eks-hooks",
   "version": "1.0.1",
-  "description": "Commonly used react and react-native custom hooks",
+  "description": "Commonly used react-native hooks",
   "main": "index.js",
   "author": "Sebastian Trebunak",
   "license": "MIT",
-  "private": true,
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sinodko/eks-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sinodko/eks-hooks/issues"
+  },
   "peerDependencies": {
     "react": "^16.7.0-alpha.0",
     "react-native": "^0.59.0"
